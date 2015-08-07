@@ -1,0 +1,9 @@
+{
+  "name": "font-booster-fixer",
+  "main": "lib/font-booster-fixer.js",
+  "ignore": [
+    "**/.*",
+    "package.json",
+    "examples"
+  ]
+}
