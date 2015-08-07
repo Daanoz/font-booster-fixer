@@ -18,6 +18,7 @@ There is currently no good css fix that will work in all cases, therefor we crea
 
 * Test on more devices
 * Performance optimalizations (maybe using the user-agent to determine if the script has to be run?)
+* Expand readme on use cases
 
 ## Credits and collaboration ##
 

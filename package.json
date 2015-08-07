@@ -1,0 +1,36 @@
+
+{
+  "name": "font-booster-fixer",
+  "version": "0.0.1",
+  "description": "Polyfill for font booster offset on android devices.",
+  "maintainers": [],
+  "author": {
+    "name": "Daan Sieben",
+    "url": "https://www.linkedin.com/in/daansieben"
+  },
+  "main": "lib/font-booster-fixer.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/daanoz/font-booster-fixer.git"
+  },
+  "keywords": [
+    "font-booster-fixer",
+    "font-booster",
+    "line-height",
+    "font-size",
+    "webkit",
+    "webview",
+    "android",
+    "84186"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "implements": [
+    "CommonJS/Modules/1.0"
+  ],
+  "homepage": "https://github.com/daanoz/font-booster-fixer"
+}
