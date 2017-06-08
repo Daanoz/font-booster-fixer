@@ -1,7 +1,7 @@
 
 {
   "name": "font-booster-fixer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Polyfill for font booster offset on android devices.",
   "maintainers": [],
   "author": {
